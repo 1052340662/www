@@ -22,7 +22,10 @@
     int a = 0;
     int c = 11;
     int b = 5;
+
     int ddd = 33;
+
+    int d = 0;
 }
 
 - (void)didReceiveMemoryWarning {
