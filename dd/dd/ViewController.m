@@ -19,6 +19,9 @@
     NSLog(@"dfhdf");
     // Do any additional setup after loading the view, typically from a nib.
     self.view.backgroundColor = [UIColor redColor];
+    int a = 0;
+    int b = 5;
+
 }
 
 - (void)didReceiveMemoryWarning {
