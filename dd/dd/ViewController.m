@@ -21,6 +21,7 @@
     self.view.backgroundColor = [UIColor redColor];
     int a = 0;
     int c = 11;
+    int b = 5;
 
 }
 
