@@ -22,6 +22,7 @@
     int a = 0;
     int c = 11;
     int b = 5;
+    int d = 0;
 
 }
 
